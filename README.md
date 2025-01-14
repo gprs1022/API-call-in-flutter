@@ -1,6 +1,3 @@
-Sure, here is the code for the enhanced and attractive `README.md` file for your repository:
-
-```markdown
 # 📱 API Call in Flutter
 
 Welcome to the **API Call in Flutter** project! This repository contains a starting point for building a Flutter application that makes API calls.
